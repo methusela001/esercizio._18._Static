@@ -2,8 +2,8 @@ package org.example;
 
 class Main {
     static void main(String[] args) {
-        Employee employee1 = new Employee("Andrea", "Rossi", "Via Roma");
-        Employee employee2 = new Employee("Mario", "Rossi", "Via Roma");
+        Employee employee1 = new Employee("Methu", "Sela", "Via Paravia");
+        Employee employee2 = new Employee("Methu", "Sela", "Via Paravia");
 
         Badge badge1 = new Badge();
         badge1.employee = employee1;
