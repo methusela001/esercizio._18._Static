@@ -3,7 +3,7 @@ package org.example;
 class Main {
     static void main(String[] args) {
         Employee employee1 = new Employee("Methu", "Sela", "Via Paravia");
-        Employee employee2 = new Employee("Methu", "Sela", "Via Paravia");
+        Employee employee2 = new Employee("Fernando", "Warna", "Via Paravia");
 
         Badge badge1 = new Badge();
         badge1.employee = employee1;
